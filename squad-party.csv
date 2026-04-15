@@ -1,0 +1,4 @@
+id,name,title,icon,execution,path
+carlos-cazador,Carlos Cazador,Pesquisador de Notícias,🔍,inline,./agents/carlos-cazador.agent.md
+marco-visual,Marco Visual,Diretor de Fotografia Editorial,👁️,inline,./agents/marco-visual.agent.md
+diana-design,Diana Design,Designer Visual,🎨,inline,./agents/diana-design.agent.md

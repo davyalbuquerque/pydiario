@@ -1,0 +1,12 @@
+name: "PY Diário Pipeline"
+squad: "pydiario"
+version: "3.0.0"
+
+steps:
+  - step-01-pesquisar.md
+  - step-02-analisar-fotos.md
+  - step-03-criar.md
+  - step-04-revisar-arte.md
+  - step-05-publicar.md
+
+checkpoints: []

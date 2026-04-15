@@ -1,0 +1,48 @@
+# Categorias do PY Diário
+# Cores extraídas das logos PNG reais — borda, tag e logo devem ser SEMPRE sincronizadas
+
+categorias:
+  POLÍTICA:
+    color: "#c4170c"
+    text_color: "#ffffff"
+    logo: "logo-politica-ready.png"
+
+  ECONOMÍA:
+    color: "#0000FF"
+    text_color: "#ffffff"
+    logo: "logo-economia-ready.png"
+
+  DEPORTES:
+    color: "#00A651"
+    text_color: "#ffffff"
+    logo: "logo-deportes-ready.png"
+
+  VIOLENCIA:
+    color: "#FFD700"
+    text_color: "#000000"
+    logo: "logo-violencia-ready.png"
+
+  NEGOCIOS:
+    color: "#FF6600"
+    text_color: "#ffffff"
+    logo: "logo-negocios-ready.png"
+
+  CULTURA:
+    color: "#5B0090"
+    text_color: "#ffffff"
+    logo: "logo-cultura-ready.png"
+
+  RURAL:
+    color: "#B8A050"
+    text_color: "#ffffff"
+    logo: "logo-rural-ready.png"
+
+  ESTILO DE VIDA:
+    color: "#D4007A"
+    text_color: "#ffffff"
+    logo: "logo-estilo-vida-ready.png"
+
+  URGENTE:
+    color: "#FF0000"
+    text_color: "#ffffff"
+    logo: "logo-urgente-ready.png"

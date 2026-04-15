@@ -1,0 +1,5 @@
+.env
+output/temp-*
+output/*/foto-*.jpg
+output/*/nuscale-*.jpg
+output/*/nuscale-*.png

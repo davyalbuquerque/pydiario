@@ -1,0 +1,13 @@
+{
+  "squad": "pydiario",
+  "status": "running",
+  "step": { "current": 1, "total": 8, "label": "step-01-checkpoint-categoria" },
+  "agents": [
+    { "id": "carlos-cazador", "name": "Carlos Cazador", "icon": "🔍", "status": "idle", "desk": { "col": 1, "row": 1 } },
+    { "id": "felix-foto", "name": "Felix Foto", "icon": "📸", "status": "idle", "desk": { "col": 2, "row": 1 } },
+    { "id": "diana-design", "name": "Diana Design", "icon": "🎨", "status": "idle", "desk": { "col": 3, "row": 1 } }
+  ],
+  "handoff": null,
+  "startedAt": "2026-04-15T17:47:40.000Z",
+  "updatedAt": "2026-04-15T17:47:40.000Z"
+}

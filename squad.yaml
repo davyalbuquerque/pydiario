@@ -1,0 +1,12 @@
+name: "PY Diário"
+code: "pydiario"
+description: "Posts de notícia 1080×1350px para @pydiario — pesquisa, cria e publica automaticamente"
+version: "2.0.0"
+
+skills:
+  - web_search
+  - web_fetch
+  - image-creator
+
+data:
+  - pipeline/data/reference.md
